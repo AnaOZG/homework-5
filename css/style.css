@@ -1,0 +1,110 @@
+.b-1 {
+	padding: 52px 52px;
+}
+.logo {
+	vertical-align: middle;
+}
+
+nav {
+	display: inline-block;
+	vertical-align: middle;
+}
+ul {
+	list-style: none;
+}
+li {
+	display: inline-block;
+	margin-left: 60px;
+}
+.current {
+	width: 115px;
+	height: 34px;
+
+	font-style: normal;
+	font-weight: 700;
+	font-size: 26px;
+	line-height: 31px;
+
+	color: #4E6FAE;
+
+}
+.other {
+	width: 150px;
+	height: 34px;
+
+	font-style: normal;
+	font-weight: 700;
+	font-size: 26px;
+	line-height: 31px;
+
+	color: #8D81FF;
+
+}
+header {
+	margin-bottom: 52px;
+}
+.date-b {
+	width: 50px;
+	height: 50px;
+	margin-top: 52px;
+	padding: 9px 11px;
+	margin-bottom: 26px;
+	background: #5012D5;
+}
+.date {
+	width: 31px;
+	height: 34px;
+
+	font-style: normal;
+	font-weight: 400;
+	font-size: 30px;
+	line-height: 28px;
+
+	color: #84FF81;
+	vertical-align: middle;
+}
+.may {
+	width: 119px;
+	height: 34px;
+
+	font-family: 'BPG Nino Mkhedruli';
+	font-style: italic;
+	font-weight: 400;
+	font-size: 32px;
+	line-height: 32px;
+
+	color: #8D81FF;
+
+	margin-bottom: 8px;
+}
+.title {
+	width: 578px;
+	height: 34px;
+
+	font-family: 'GL Tatishvili Metal';
+	font-style: normal;
+	font-weight: 700;
+	font-size: 20px;
+	line-height: 24px;
+
+	color: #4E6FAE;
+}
+.txt-1 {
+	position: absolute;
+	width: 778px;
+	height: 353px;
+
+	font-family: 'BPG Square';
+	font-style: normal;
+	font-weight: 700;
+	font-size: 16px;
+	line-height: 19px;
+
+	color: #4E6FAE;
+
+}
+.line {
+	color: #5012D5;
+	margin-left: 41px;
+	margin-right: 41px;
+}

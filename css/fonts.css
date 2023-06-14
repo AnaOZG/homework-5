@@ -1,0 +1,26 @@
+@font-face {
+    font-family: 'BPG Nino Mkhedruli';
+    src: url('../fonts/BPGNinoMkhedruli.woff2') format('woff2'),
+        url('../fonts/BPGNinoMkhedruli.woff') format('woff');
+    font-weight: normal;
+    font-style: italic;
+    font-display: swap;
+}
+@font-face {
+    font-family: 'GL Tatishvili Metal';
+    src: url('../fonts/GLTatishviliMetal-Bold.woff2') format('woff2'),
+        url('../fonts/GLTatishviliMetal-Bold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+@font-face {
+    font-family: 'BPG Square';
+    src: url('BPGSquare.woff2') format('woff2'),
+        url('BPGSquare.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+
