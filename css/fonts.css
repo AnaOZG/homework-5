@@ -16,11 +16,9 @@
 }
 @font-face {
     font-family: 'BPG Square';
-    src: url('BPGSquare.woff2') format('woff2'),
-        url('BPGSquare.woff') format('woff');
+    src: url('../fonts/BPGSquare.woff2') format('woff2'),
+        url('../fonts/BPGSquare.woff') format('woff');
     font-weight: normal;
     font-style: normal;
     font-display: swap;
 }
-
-
